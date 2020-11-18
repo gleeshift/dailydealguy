@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{80:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),c=n(102),o=n(94);t.default=function(){var e=Object(o.a)("/bestseller");return a.a.createElement(c.Redirect,{to:e})}}}]);

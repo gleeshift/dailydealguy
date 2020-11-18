@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{72:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),o=t(93),u=t(97),c=function(){var e=Object(u.a)(),n=e.isDarkTheme;e.setLightTheme,e.setDarkTheme;return r.a.createElement("h1",null,"Dark mode is now ",n?"on":"off")};n.default=function(){return r.a.createElement(o.a,null,r.a.createElement(c,null))}}}]);
